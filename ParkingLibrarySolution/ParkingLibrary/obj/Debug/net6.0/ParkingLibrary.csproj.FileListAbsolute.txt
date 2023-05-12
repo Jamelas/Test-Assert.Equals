@@ -1,0 +1,12 @@
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 9\Test Examples\ParkingLibrarySolution\ParkingLibrary\bin\Debug\net6.0\ParkingLibrary.deps.json
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 9\Test Examples\ParkingLibrarySolution\ParkingLibrary\bin\Debug\net6.0\ParkingLibrary.dll
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 9\Test Examples\ParkingLibrarySolution\ParkingLibrary\bin\Debug\net6.0\ParkingLibrary.pdb
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 9\Test Examples\ParkingLibrarySolution\ParkingLibrary\obj\Debug\net6.0\ParkingLibrary.csproj.AssemblyReference.cache
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 9\Test Examples\ParkingLibrarySolution\ParkingLibrary\obj\Debug\net6.0\ParkingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 9\Test Examples\ParkingLibrarySolution\ParkingLibrary\obj\Debug\net6.0\ParkingLibrary.AssemblyInfoInputs.cache
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 9\Test Examples\ParkingLibrarySolution\ParkingLibrary\obj\Debug\net6.0\ParkingLibrary.AssemblyInfo.cs
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 9\Test Examples\ParkingLibrarySolution\ParkingLibrary\obj\Debug\net6.0\ParkingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 9\Test Examples\ParkingLibrarySolution\ParkingLibrary\obj\Debug\net6.0\ParkingLibrary.dll
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 9\Test Examples\ParkingLibrarySolution\ParkingLibrary\obj\Debug\net6.0\refint\ParkingLibrary.dll
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 9\Test Examples\ParkingLibrarySolution\ParkingLibrary\obj\Debug\net6.0\ParkingLibrary.pdb
+C:\Users\Jamie\Desktop\Study\300\158.326 - Software Construction\Week 9\Test Examples\ParkingLibrarySolution\ParkingLibrary\obj\Debug\net6.0\ref\ParkingLibrary.dll

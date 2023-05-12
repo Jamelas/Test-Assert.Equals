@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLibrary", "ParkingLibrary\ParkingLibrary.csproj", "{B4290245-C3E6-47DC-9254-B4508846D9B3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{F5F5DBFD-A4E7-464A-871C-70F8D58D5366}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B4290245-C3E6-47DC-9254-B4508846D9B3} = {B4290245-C3E6-47DC-9254-B4508846D9B3}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
